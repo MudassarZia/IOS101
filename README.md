@@ -2,9 +2,14 @@
 
 Submitted by: Muhammad Zia
 
-IOS101-Prework is an app that... [TODO] 
+IOS101-Prework is an app that...
+- Does required features
+- Displays image of university
+- Has a custom app image
+- Has switch that changed background to black or white (Until button is clicked)
+- Has slider that shows slider percentage
 
-Time spent: 4 hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
@@ -20,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Kap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -45,7 +50,7 @@ App Idea: As someone that cooks a fair amount, I have not found an app that allo
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+App was overall very easy to make, as documentation and implementation was very intuitive. Biggest roadbump was getting used to the UI, which although not bad, is very different to most IDE'S I use. Only other technical problem I had was with programming the slider, which was slightly confusing, as I did not get how to make the label change based on the sliders movement.
 
 ## License
 
