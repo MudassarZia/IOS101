@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![IOS101-Prework/04e26d7e-511f-4c6d-a9ea-5efd418de5f0.gif]()
+![https://github.com/MudassarZia/IOS101/blob/main/IOS101-Prework/04e26d7e-511f-4c6d-a9ea-5efd418de5f0.gif]()
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
