@@ -9,7 +9,7 @@ IOS101-Prework is an app that...
 - Has switch that changed background to black or white (Until button is clicked)
 - Has slider that shows slider percentage
 
-Time spent: 8 hours spent in total
+Time spent: 9 hours spent in total
 
 ## Required Features
 
