@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/bsVzrRU.gif)
+![](http://i.imgur.com/bsVzrRUh.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap  
